@@ -1,0 +1,8 @@
+C:\Users\adithya>npm install -g @angular/cli
+
+C:\Users\adithya>ng new my-app
+C:\Users\adithya>cd my-app
+
+C:\Users\adithya\my-app>ng serve --open
+
+//server sucessfully running
